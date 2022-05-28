@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ang Leon Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student at Columbia University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
+  - name: Columbia University
+    url: https://www.columbia.edu/
+    
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include theoretical neuroscience, causal inference, and machine learning
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Causal Inference
 
 # Education to show in About widget
 education:
