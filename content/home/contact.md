@@ -29,7 +29,7 @@ content:
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
-    city: Stanford
+    city: New York
     region: CA
     postcode: '94305'
     country: United States
