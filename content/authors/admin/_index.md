@@ -7,11 +7,15 @@ superuser: true
 
 # Role/position/tagline
 role: Student at Columbia University
+	  Research Assistant at Columbia Zuckerman Institute
+
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Columbia University
     url: https://www.columbia.edu/
+  - name: Columbia Zuckerman Institute
+    url: https://zuckermaninstitute.columbia.edu/
     
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include theoretical neuroscience, causal inference, and machine learning
